@@ -16,7 +16,10 @@
   Because **@30daysofcode** is small program's list, which so easy for learn and realistic.
   
 ### Where
-  [Hackerrank](): [@30daysofcode](https://www.hackerrank.com/domains/tutorials/30-days-of-code?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=30-days-of-code)
+  [Hackerrank](https://www.hackerrank.com/): [@30daysofcode](https://www.hackerrank.com/domains/tutorials/30-days-of-code?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=30-days-of-code)
 
+### Address:
+- My facebook: [Dương Đụt](https://www.facebook.com/Cc35CzTk)
+- My email: *pduongpdu99@gmail.com*
 
 Finally, *THANK FOR READ ME*
