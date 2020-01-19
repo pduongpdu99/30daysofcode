@@ -4,7 +4,7 @@ Sử dụng lệnh `print(argument)` để hiển thị `argument
 ### Tasks
 Cách để hoàn thành `DAY 0` ta chỉ print ra mạng hình dòng `Hello, world.` trên dòng đầu tiên và dòng thứ 2 hiển thị`inputString`.
 ### Input
-Biển `inputString` sử dụng hàm nhập và gán giá trị đó vào biến inputString
+Biến `inputString` sử dụng hàm nhập và gán giá trị đó vào biến inputString
 Example:
 ```
 Welcome to 30 Days of Code!
