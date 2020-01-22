@@ -31,7 +31,7 @@ Hackerrank is the best place to learn and practice coding!
 ```
 
 ### Reference
-* Website: [Day 1: data type](https://www.hackerrank.com/challenges/30-data-types/problem)
+* Website: [Dương Đụt | Hackerrank | Day 1: data type](https://www.hackerrank.com/challenges/30-data-types/problem)
 
 ### Contact me
 * Facebook: [Dương Đụt](https://www.facebook.com/Cc35CzTk)

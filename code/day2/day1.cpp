@@ -35,3 +35,4 @@ int main() {
     cout<<s<<c;
 
     return 0;
+}
